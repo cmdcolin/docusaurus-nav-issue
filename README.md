@@ -6,9 +6,10 @@ npx @docusaurus/init@latest init my-website classic
 
 Was version beta.6 at time of writing
 
-Then edit docs/intro to have a section header, and link to a couple other pages
+All that I modified was editing docs/intro to have a section header, and link to a couple other pages
 
-Then run
+
+All you have to do to reproduce
 
 ```
 yarn build
